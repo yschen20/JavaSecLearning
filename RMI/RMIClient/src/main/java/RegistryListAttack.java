@@ -1,0 +1,20 @@
+import java.rmi.Naming;
+import java.rmi.RemoteException;
+
+public class RegistryListAttack {
+    public static void main(String[] args) throws Exception{
+        RemoteObj remoteObj = new RemoteObj(){
+            @Override
+            public String sayHello(String keywords) throws RemoteException{
+                return null;
+            }
+
+            @Override
+            public void evil(Object obj) throws RemoteException {
+
+            }
+        };
+        String[] s = Naming.list("rmi://127.0.0.1:1099");
+        System.out.println(s);
+    }
+}

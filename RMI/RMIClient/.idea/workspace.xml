@@ -3,18 +3,139 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5422527-1122-4f51-87ad-c6ea08f33c12" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AttackRegistryEXP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AttackRegistryEXP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClientAttackServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorBaseExec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ErrorClientEXP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EvilClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RegistryListAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/src/main/java/EvilClassServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/src/main/java/ServerReturnObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMIServer/src/main/java/VictimServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/src/main/java/exp/CC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/src/main/java/exp/CC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RemoteObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoteObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/src/main/java/RemoteObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/src/main/java/RemoteObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMIServer/src/main/java/RemoteObjImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIServer/src/main/java/RemoteObjImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yschen20&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:yschen20/JavaSecLearning.git&quot;,
+    &quot;accountId&quot;: &quot;fa9e900b-a213-4c8a-a95c-509efdac7f38&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="39ZCAeoo9qD2nESEF6LJ2k1hBST" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/RMI/RMIClient/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Facet",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2816092",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.AttackRegistryEXP1.executor": "Run",
+    "应用程序.AttackRegistryEXP2.executor": "Run",
+    "应用程序.Client.executor": "Run",
+    "应用程序.ClientAttackServer.executor": "Run",
+    "应用程序.ErrorClientEXP.executor": "Run",
+    "应用程序.EvilClient.executor": "Run",
+    "应用程序.RMIClient.executor": "Run",
+    "应用程序.RegistryListAttack.executor": "Run"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="RMIClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RMIClient" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\RMI\RMIClient\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.ClientAttackServer">
+    <configuration name="AttackRegistryEXP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AttackRegistryEXP1" />
+      <module name="RMIClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="RMIClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientAttackServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientAttackServer" />
+      <module name="RMIClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrorClientEXP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ErrorClientEXP" />
+      <module name="RMIClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvilClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvilClient" />
       <module name="RMIClient" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -22,8 +143,35 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.RMIClient" />
+        <item itemvalue="应用程序.ClientAttackServer" />
+        <item itemvalue="应用程序.ErrorClientEXP" />
+        <item itemvalue="应用程序.EvilClient" />
+        <item itemvalue="应用程序.AttackRegistryEXP1" />
+        <item itemvalue="应用程序.Client" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.13" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d5422527-1122-4f51-87ad-c6ea08f33c12" name="更改" comment="" />
+      <created>1770894065960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770894065960</updated>
+      <workItem from="1770894067180" duration="9737000" />
+      <workItem from="1770904815341" duration="11513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ace8bd6-7502-4cf2-bebc-b7e5279c29ac" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../RMI/RMIClient/src/main/java/AttackRegistryEXP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI/RMIClient/src/main/java/AttackRegistryEXP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI/RMIClient/src/main/java/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI/RMIClient/src/main/java/RegistryListAttack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/CC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMI/RMIClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/RMIClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMI/RMIClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/RMIClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMI/RMIServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/RMIServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMI/RMIServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/RMIServer/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1770881301305</updated>
       <workItem from="1770881302265" duration="1938000" />
+      <workItem from="1770897975181" duration="1602000" />
     </task>
     <servers />
   </component>

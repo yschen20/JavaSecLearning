@@ -13,4 +13,9 @@ public class RemoteObjImpl extends UnicastRemoteObject implements RemoteObj {
         System.out.println(upKeywords);
         return upKeywords;
     }
+
+    @Override
+    public void evil(Object obj) throws RemoteException {
+
+    }
 }
