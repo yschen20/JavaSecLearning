@@ -1,5 +1,0 @@
-JDK/**/*.jar filter=lfs diff=lfs merge=lfs -text
-JDK/**/*.exe filter=lfs diff=lfs merge=lfs -text
-JDK/jdk-8u65/jre/lib/rt.jar filter=lfs diff=lfs merge=lfs -text
-JDK/jdk-8u65/jdk-8u65/lib/rt.jar filter=lfs diff=lfs merge=lfs -text
-JDK/jdk-8u65/jdk-8u65-windows-x64.exe filter=lfs diff=lfs merge=lfs -text
