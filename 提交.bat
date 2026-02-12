@@ -9,4 +9,10 @@ for /f "tokens=1-2" %%a in ('powershell -Command "Get-Date -Format 'yyyy-MM-dd H
 :: 执行 Git 命令
 git add .
 git commit -m "%commit_message%"
-git push --force origin main
+git push
+
+:: 显示完成信息并等待用户输入
+echo.
+echo  成功推送
+echo.
+pause
