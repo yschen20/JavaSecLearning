@@ -5,19 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ace8bd6-7502-4cf2-bebc-b7e5279c29ac" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CC11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CC2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CC3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CC4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CC5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CC6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/CC7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/URLDNS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tools/Decode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tools/Encode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tools/SetField.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,25 +46,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/JavaSerializeExp/src/main/java/classpoc",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.CB.executor": "Run",
-    "应用程序.CC2.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/JavaSerializeExp/src/main/java/classpoc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.CB.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CC2.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\JavaSerializeExp\src\main\java\classpoc" />
