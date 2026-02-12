@@ -1,0 +1,8 @@
+# 添加文件到暂存区
+git add .
+
+# 提交到本地仓库
+git commit -m "描述"
+
+# 推送到远程仓库
+git push
