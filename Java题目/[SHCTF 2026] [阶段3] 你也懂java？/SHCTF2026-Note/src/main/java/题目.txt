@@ -1,0 +1,16 @@
+public void handle(HttpExchange exchange) throws IOException {
+    String method = exchange.getRequestMethod();
+    String path = exchange.getRequestURI().getPath();
+
+    if ("POST".equalsIgnoreCase(method) && "/upload".equals(path)) {
+        try (ObjectInputStream ois = new ObjectInputStream(exchange.getRequestBody())) {
+            Object obj = ois.readObject();
+            if (obj instanceof Note) {
+                Note note = (Note) obj;
+                if (note.getFilePath() != null) {
+                    echo(readFile(note.getFilePath()));
+                }
+            }
+        } catch (Exception e) {}
+    }
+}

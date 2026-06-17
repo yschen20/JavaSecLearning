@@ -5,16 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ace8bd6-7502-4cf2-bebc-b7e5279c29ac" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../RMI/RMIClient/src/main/java/AttackRegistryEXP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMI/RMIClient/src/main/java/AttackRegistryEXP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMI/RMIClient/src/main/java/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMI/RMIClient/src/main/java/RegistryListAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/src/main/java/JNDIBypassHighJavaClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/src/main/java/JNDIGadgetClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/src/main/java/JNDILDAPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/src/main/java/JNDIRMIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIClient/src/main/java/RemoteObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/src/main/java/JNDICalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/src/main/java/JNDIGadgetServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/src/main/java/JNDIRMIServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/src/main/java/LDAPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/src/main/java/RemoteObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/src/main/java/RemoteObjImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/EXP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/题目.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/CC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMI/RMIClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/RMIClient/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMI/RMIClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/RMIClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ser.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ser.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RMI/RMIServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/RMIServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMI/RMIServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMI/RMIServer/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,25 +71,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/JavaSerializeExp/src/main/java/classpoc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.CB.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CC2.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/JavaSerializeExp/src/main/java/classpoc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.CB.executor": "Run",
+    "应用程序.CC2.executor": "Run",
+    "应用程序.CC6.executor": "Run",
+    "应用程序.URLDNS.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\JavaSerializeExp\src\main\java\classpoc" />
@@ -81,7 +99,7 @@
       <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\JavaSerializeExp\src\main\java\exp" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CC2">
+  <component name="RunManager" selected="应用程序.CC6">
     <configuration name="CB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exp.CB" />
       <module name="JavaSerializeExp" />
@@ -108,8 +126,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CC6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp.CC6" />
+      <module name="JavaSerializeExp" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URLDNS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp.URLDNS" />
+      <module name="JavaSerializeExp" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.CC6" />
+      <item itemvalue="应用程序.CB" />
+      <item itemvalue="应用程序.CC2" />
+      <item itemvalue="应用程序.URLDNS" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.CC6" />
+        <item itemvalue="应用程序.URLDNS" />
         <item itemvalue="应用程序.CC2" />
         <item itemvalue="应用程序.CB" />
       </list>
@@ -132,6 +186,14 @@
       <updated>1770881301305</updated>
       <workItem from="1770881302265" duration="1938000" />
       <workItem from="1770897975181" duration="1602000" />
+      <workItem from="1774516885521" duration="617000" />
+      <workItem from="1776579578257" duration="52000" />
+      <workItem from="1781349193368" duration="32000" />
+      <workItem from="1781349317807" duration="1405000" />
+      <workItem from="1781444187657" duration="151000" />
+      <workItem from="1781445604749" duration="609000" />
+      <workItem from="1781524149321" duration="47000" />
+      <workItem from="1781592114656" duration="1647000" />
     </task>
     <servers />
   </component>

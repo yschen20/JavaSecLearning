@@ -5,28 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e17909-dc86-4a5b-8ad3-4aa068df2654" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/AttackRegistryEXP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/AttackRegistryEXP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/ClientAttackServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/ErrorBaseExec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/ErrorClientEXP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/EvilClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/RegistryListAttack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EvilClassServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServerReturnObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VictimServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIClient/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIClient/src/main/java/JNDIRMIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIClient/src/main/java/RemoteObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIServer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIServer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIServer/src/main/java/JNDIRMIServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIServer/src/main/java/RemoteObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JNDI/JNDIServer/src/main/java/RemoteObjImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/EXP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/题目.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/src/main/java/exp/CC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/src/main/java/exp/CC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIClient/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIClient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMIClient/src/main/java/RemoteObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMIClient/src/main/java/RemoteObj.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RemoteObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoteObj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RemoteObjImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoteObjImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +41,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yschen20"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yschen20&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:yschen20/JavaSecLearning.git",
-    "accountId": "fa9e900b-a213-4c8a-a95c-509efdac7f38"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:yschen20/JavaSecLearning.git&quot;,
+    &quot;accountId&quot;: &quot;fa9e900b-a213-4c8a-a95c-509efdac7f38&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -63,9 +61,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="39ZBvLOJ9CISdh9Nv3uuLTqwYlK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,32 +71,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/RMI/RMIServer/src/main/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDK",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2816092",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.EvilClassServer.executor": "Run",
-    "应用程序.EvilClient.executor": "Run",
-    "应用程序.RMIServer.executor": "Run",
-    "应用程序.VictimServer (1).executor": "Run",
-    "应用程序.VictimServer.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/RMI/RMIServer/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2816092&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.EvilClassServer.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.EvilClient.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RMIServer.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VictimServer (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VictimServer.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\RMI\RMIServer\src\main\java" />
@@ -107,7 +105,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.VictimServer (1)">
+  <component name="RunManager" selected="应用程序.RMIServer">
     <configuration name="EvilClassServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EvilClassServer" />
       <module name="RMIServer" />
@@ -145,9 +143,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.RMIServer" />
         <item itemvalue="应用程序.VictimServer (1)" />
         <item itemvalue="应用程序.VictimServer" />
-        <item itemvalue="应用程序.RMIServer" />
         <item itemvalue="应用程序.EvilClassServer" />
         <item itemvalue="应用程序.EvilClient" />
       </list>
@@ -169,6 +167,8 @@
       <option name="presentableId" value="Default" />
       <updated>1770893942697</updated>
       <workItem from="1770893943681" duration="19165000" />
+      <workItem from="1770993148808" duration="404000" />
+      <workItem from="1780889150562" duration="23000" />
     </task>
     <servers />
   </component>

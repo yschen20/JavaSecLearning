@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04eceee7-301b-47b9-b8d6-68e7c16ed813" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/JNDIBypassHighJavaClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/JNDIGadgetClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/JNDILDAPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/JNDIRMIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/RemoteObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JNDICalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JNDIGadgetServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JNDIRMIServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LDAPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RemoteObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RemoteObjImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/EXP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/题目.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/ser.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/ser.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RMI/RMIServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RMI/RMIServer/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yschen20&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:yschen20/JavaSecLearning.git&quot;,
+    &quot;accountId&quot;: &quot;fa9e900b-a213-4c8a-a95c-509efdac7f38&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Eq0XkkueB098Wkg2K2480Wili4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.40344828",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.JNDIBypassHighJava.executor": "Run",
+    "应用程序.JNDIBypassHighJavaServerRebind.executor": "Run",
+    "应用程序.JNDIGadgetServer (1).executor": "Run",
+    "应用程序.JNDIGadgetServer (2).executor": "Run",
+    "应用程序.JNDIGadgetServer (3).executor": "Run",
+    "应用程序.JNDIGadgetServer.executor": "Run",
+    "应用程序.JNDIRMIServer.executor": "Run",
+    "应用程序.LDAPServer (1).executor": "Run",
+    "应用程序.LDAPServer.executor": "Run",
+    "应用程序.Test.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\JNDI\JNDIServer\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.JNDIGadgetServer (3)">
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="JNDIServer" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JNDIGadgetServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JNDIGadgetServer" />
+      <module name="JNDIServer" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JNDIGadgetServer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JNDIGadgetServer" />
+      <module name="JNDIServer" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JNDIGadgetServer (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JNDIGadgetServer" />
+      <module name="JNDIServer" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JNDIGadgetServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JNDIGadgetServer" />
+      <module name="JNDIServer" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JNDIRMIServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JNDIRMIServer" />
+      <module name="JNDIServer" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LDAPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LDAPServer" />
+      <module name="JNDIServer" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.JNDIGadgetServer" />
+      <item itemvalue="应用程序.JNDIGadgetServer (1)" />
+      <item itemvalue="应用程序.JNDIGadgetServer (2)" />
+      <item itemvalue="应用程序.JNDIGadgetServer (3)" />
+      <item itemvalue="应用程序.JNDIRMIServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.JNDIGadgetServer (3)" />
+        <item itemvalue="应用程序.JNDIGadgetServer (2)" />
+        <item itemvalue="应用程序.JNDIGadgetServer (1)" />
+        <item itemvalue="应用程序.JNDIGadgetServer" />
+        <item itemvalue="应用程序.JNDIRMIServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.13" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="04eceee7-301b-47b9-b8d6-68e7c16ed813" name="更改" comment="" />
+      <created>1780890836471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780890836471</updated>
+      <workItem from="1780890837431" duration="241000" />
+      <workItem from="1780907700349" duration="6561000" />
+      <workItem from="1780969433519" duration="5584000" />
+      <workItem from="1781444341691" duration="2194000" />
+      <workItem from="1781524197313" duration="4836000" />
+      <workItem from="1781575172344" duration="8706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
