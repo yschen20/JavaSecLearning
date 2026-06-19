@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04eceee7-301b-47b9-b8d6-68e7c16ed813" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/JNDIBypassHighJavaClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/JNDIGadgetClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/JNDILDAPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/JNDIRMIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JNDIClient/src/main/java/RemoteObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JNDICalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JNDIGadgetServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JNDIRMIServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LDAPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RemoteObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RemoteObjImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/EXP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java题目/[SHCTF 2026] [阶段3] 你也懂java？/SHCTF2026-Note/src/main/java/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/ser.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/ser.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../RMI/RMIServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RMI/RMIServer/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04eceee7-301b-47b9-b8d6-68e7c16ed813" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,40 +42,40 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.40344828",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.JNDIBypassHighJava.executor": "Run",
-    "应用程序.JNDIBypassHighJavaServerRebind.executor": "Run",
-    "应用程序.JNDIGadgetServer (1).executor": "Run",
-    "应用程序.JNDIGadgetServer (2).executor": "Run",
-    "应用程序.JNDIGadgetServer (3).executor": "Run",
-    "应用程序.JNDIGadgetServer.executor": "Run",
-    "应用程序.JNDIRMIServer.executor": "Run",
-    "应用程序.LDAPServer (1).executor": "Run",
-    "应用程序.LDAPServer.executor": "Run",
-    "应用程序.Test.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40344828&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.JNDIBypassHighJava.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.JNDIBypassHighJavaServerRebind.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.JNDIGadgetServer (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.JNDIGadgetServer (2).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.JNDIGadgetServer (3).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.JNDIGadgetServer.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.JNDIRMIServer.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LDAPServer (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LDAPServer.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\JNDI\JNDIServer\src\main\java" />
@@ -168,6 +141,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="应用程序.LDAPServer" />
       <item itemvalue="应用程序.JNDIGadgetServer" />
       <item itemvalue="应用程序.JNDIGadgetServer (1)" />
       <item itemvalue="应用程序.JNDIGadgetServer (2)" />
@@ -205,6 +179,7 @@
       <workItem from="1781444341691" duration="2194000" />
       <workItem from="1781524197313" duration="4836000" />
       <workItem from="1781575172344" duration="8706000" />
+      <workItem from="1781686696114" duration="89000" />
     </task>
     <servers />
   </component>
