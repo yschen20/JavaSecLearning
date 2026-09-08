@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04eceee7-301b-47b9-b8d6-68e7c16ed813" name="更改" comment="" />
+    <list default="true" id="04eceee7-301b-47b9-b8d6-68e7c16ed813" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Fastjson/src/main/java/JNDILDAPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fastjson/src/main/java/JNDIRMIServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fastjson/src/main/java/JdbcRowSetImplExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fastjson/src/main/java/JdbcRowSetImplLdapExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JNDIRMIServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JNDIRMIServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSerializeExp/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,6 +188,8 @@
       <workItem from="1781524197313" duration="4836000" />
       <workItem from="1781575172344" duration="8706000" />
       <workItem from="1781686696114" duration="89000" />
+      <workItem from="1782142342350" duration="1555000" />
+      <workItem from="1782294174450" duration="311000" />
     </task>
     <servers />
   </component>

@@ -5,29 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ace8bd6-7502-4cf2-bebc-b7e5279c29ac" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/TemplatesImplPOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/classpoc/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/FastjsonPOCDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentSerialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentUnserialize01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentUnserialize02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentUnserialize03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentUnserialize04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exp/fastjson/TemplatesImplPOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.25/src/main/java/JdbcRowSetImplLdapExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.25/src/main/java/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.41/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.41/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.41/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.41/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.41/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.41/src/main/java/EXP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fastjson/Fastjson1.2.41/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/TemplatesImplPOC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/classpoc/Calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/classpoc/Calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/FastjsonPOCDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentSerialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentUnserialize01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentUnserialize02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentUnserialize03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fastjson/src/main/java/demo/StudentUnserialize04.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JNDI/JNDIServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JNDI/JNDIServer/src/main/java/JNDIRMIServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JNDI/JNDIServer/src/main/java/JNDIRMIServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cb/CB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/CC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/CC11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/CC2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/CC3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/CC4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/CC5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/CC6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/CC7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/CC7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exp/URLDNS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/URLDNS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ser.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ser.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exp/cc/URLDNS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exp/cc/URLDNS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tools/Decode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tools/Decode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tools/Encode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tools/Encode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../逻辑图/CC链.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../逻辑图/CC链.drawio" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,28 +85,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/JavaSerializeExp/src/main/java/classpoc",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.CB.executor": "Run",
-    "应用程序.CC2.executor": "Run",
-    "应用程序.CC6.executor": "Run",
-    "应用程序.TemplatesImplPOC.executor": "Run",
-    "应用程序.URLDNS.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CTF/网络安全学习笔记/漏洞/Java安全/JavaSecLearning/JavaSerializeExp/src/main/java/classpoc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.CB.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CC2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CC6.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TemplatesImplPOC.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.URLDNS.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\JavaSerializeExp\src\main\java\classpoc" />
@@ -104,7 +114,7 @@
       <recent name="E:\CTF\网络安全学习笔记\漏洞\Java安全\JavaSecLearning\JavaSerializeExp\src\main\java\exp" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.TemplatesImplPOC">
+  <component name="RunManager" selected="应用程序.URLDNS">
     <configuration name="CB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exp.cb.CB" />
       <module name="JavaSerializeExp" />
@@ -182,9 +192,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.URLDNS" />
         <item itemvalue="应用程序.TemplatesImplPOC" />
         <item itemvalue="应用程序.CC6" />
-        <item itemvalue="应用程序.URLDNS" />
         <item itemvalue="应用程序.CC2" />
         <item itemvalue="应用程序.CB" />
       </list>
@@ -216,6 +226,11 @@
       <workItem from="1781524149321" duration="47000" />
       <workItem from="1781592114656" duration="1647000" />
       <workItem from="1781851421464" duration="2617000" />
+      <workItem from="1782141385435" duration="599000" />
+      <workItem from="1788181976865" duration="860000" />
+      <workItem from="1788185786911" duration="333000" />
+      <workItem from="1788225041160" duration="29000" />
+      <workItem from="1788856053061" duration="96000" />
     </task>
     <servers />
   </component>
